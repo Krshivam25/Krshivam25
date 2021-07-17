@@ -5,7 +5,7 @@ Javascript, HTML, CSS, Node.js, Java, C, C++, MySQL
 
 - 🔭 I'm currently working on Web Development and Accessibility
 - 🌱 I'm currently learning Advance JavaScript, Go.
-- 💬 Ask me about anything related to Web Accessbility/ Data Structures/ Optimising Algorithms.
+- 💬 Ask me about anything related to Web Accessibility/ Data Structures/ Optimising Algorithms.
 - 📫 E-mail : krshivam2505@gmail.com /  18BCS3804@CUCHD.IN 
 
 

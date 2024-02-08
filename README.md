@@ -1,7 +1,7 @@
 # Hi, I'm Shivam! 👋
 ## 🚀 I'm a self-taught Full stack developer from India.
 ## 🛠 Skills
-JavaScript, React JS, Next JS, React Native, Java, PostgreSQL, Ios/Android.
+JavaScript, React JS, Next JS, React Native, NodeJS, PostgreSQL, Solidity and BlockChain.
 
 - 🔭 I'm currently working on Web Development and Accessibility
 - 🌱 I'm currently learning Microservices, AWS.

@@ -44,6 +44,26 @@ Delta-neutral systems, cross-venue execution, market data pipelines, monitoring.
 | **Domain** | Perp DEX mechanics · funding · order books · liquidations · delta-neutral strategies · smart-contract review |
 | **Learning** | AI systems — LLM agents for trading research &amp; execution, evals, tool use |
 
+### Projects
+
+**[News Trade Fun](https://newstrade.fun)** · Founder
+Trade the news, in seconds. Real-time news across crypto, equities, energy, commodities and
+geopolitics with one-tap perp execution on Hyperliquid — self-custodial, gasless USDC deposits,
+email login. Live on mainnet.
+
+![Hyperliquid](https://img.shields.io/badge/Hyperliquid-builder_codes-00d4aa?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Live](https://img.shields.io/badge/status-mainnet-2e7d32?style=flat-square)
+
+**[ChainMatch.ai](https://chainmatch.ai)** · Founder
+Partnership-discovery platform for chains and protocols, built in 2025. Now being pivoted into
+a cross-venue funding/basis matcher with one-click delta-neutral execution.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Status](https://img.shields.io/badge/status-pivoting-f57c00?style=flat-square)
+
 ### Before this
 
 | | |

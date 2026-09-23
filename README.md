@@ -52,7 +52,6 @@ Delta-neutral systems, cross-venue execution, market data pipelines, monitoring.
 | **Google Summer of Code 2021** | Joomla — accessibility |
 | **Summer of Bitcoin** | Intern |
 | **Tayze · MyDukaan** | Founding team · Engineer |
-| **Chandigarh University** | B.E. Computer Science · 2022 |
 
 ---
 

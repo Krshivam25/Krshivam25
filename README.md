@@ -76,6 +76,5 @@ a cross-venue funding/basis matcher with one-click delta-neutral execution.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krshivam25&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krshivam25&layout=compact&theme=github_dark&hide_border=true&hide=php,html,css" alt="Top languages" height="160">
+  <img src="https://streak-stats.demolab.com?user=Krshivam25&theme=github-dark-blue&hide_border=true" alt="streak" height="160">
 </p>

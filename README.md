@@ -15,7 +15,7 @@
 
 ### Now
 
-**Blockchain Engineer · Blocktheory Capital (Dubai) · Nov 2023 → present**
+**Coder · Blocktheory Capital (Dubai) · Nov 2023 → present**
 
 Trading infrastructure and strategy engineering across perp DEXs — Hyperliquid, Lighter, Aster, Ondo.
 Delta-neutral systems, cross-venue execution, market data pipelines, monitoring.
